@@ -29,4 +29,4 @@ Je suis ouvert aux opportunités de collaboration, de projets passionnants et d'
 🔗 [LinkedIn](https://www.linkedin.com/in/melvin-prevost-b29106200/)
 💀 [Root-me](https://www.root-me.org/Ritsu-750896?lang=fr#db0cfca3290746d83e60aa3e619e30d9)
 
-N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter de cybersécurité, de projets techniques ou simplement faire connaissance !
+N'hésitez pas à explorer mes projets !
