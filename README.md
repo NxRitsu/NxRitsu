@@ -2,7 +2,7 @@
 
 ## À propos de moi 🤙
 
-👋 Bonjour ! Je suis étudiant en Bachelor IT - SysOps à l'EPSI de Rennes. J'ai obtenu mon BTS SIO Option SLAM précédemment. J'ai 2 ans et j'ai une passion profonde pour la cybersécurité.
+👋 Bonjour ! Je suis étudiant en Bachelor IT - SysOps à l'EPSI de Rennes. J'ai obtenu mon BTS SIO Option SLAM précédemment. J'ai 21 ans et j'ai une passion profonde pour la cybersécurité.
 
 💻 Je suis passionné par l'informatique depuis mon plus jeune âge, et je consacre mon temps à l'apprentissage continu et au développement de mes compétences techniques. Ma principale zone d'intérêt est la cybersécurité, où je cherche à explorer les différents aspects de la protection des systèmes, de la gestion des vulnérabilités et de la sensibilisation à la sécurité.
 
