@@ -2,7 +2,7 @@
 
 ## À propos de moi 🤙
 
-👋 Bonjour ! Je suis actuellement étudiant systèmes/réseaux à l'EPSI de Rennes. J'ai 22 ans et j'ai une passion profonde pour les nouvelles technologies.
+👋 Bonjour ! Je suis actuellement étudiant à l'EPSI de Rennes. J'ai 22 ans et j'ai une passion profonde pour les nouvelles technologies.
 
 💻 Je suis passionné par l'informatique depuis mon plus jeune âge, et je consacre mon temps à l'apprentissage continu et au développement de mes compétences techniques.
 
