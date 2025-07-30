@@ -18,6 +18,7 @@ Voici quelques-unes de mes compétences techniques :
 - 📢 Sensibilisation à la sécurité
 - 🌐 Développement Web
 - 🤖 Programmation
+- 🚀 Gestion de projets
 
 ## Contact ✉️
 
