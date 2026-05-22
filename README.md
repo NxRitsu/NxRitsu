@@ -1,31 +1,71 @@
-# Bonjour ! Je suis Melvin 🧑
+# Hey 👋 Je suis Melvin
 
-## À propos de moi 🤙
+### `Chargé de Projets & Administration Systèmes et Réseaux`
 
-👋 Bonjour ! Je suis actuellement étudiant à l'EPSI de Rennes. J'ai 22 ans et j'ai une passion profonde pour les nouvelles technologies.
+Étudiant en MSc Informatique & SI, passionné par l'infrastructure, la cybersécurité et tout ce qui touche aux nouvelles technologies. J'aime concevoir, sécuriser et automatiser — du serveur au cloud.
 
-💻 Je suis passionné par l'informatique depuis mon plus jeune âge, et je consacre mon temps à l'apprentissage continu et au développement de mes compétences techniques.
+---
 
-## Compétences techniques ✅
+## 🛠️ Stack & Outils
 
-Voici quelques-unes de mes compétences techniques :
+**Systèmes**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
-- 💻 Administration système (Linux, Windows)
-- 🔒 Sécurité des systèmes et des réseaux
-- 🛡️ Gestion des vulnérabilités
-- 🚧 Mise en place de mesures de sécurité
-- 📊 Analyse de la sécurité des applications
-- 📢 Sensibilisation à la sécurité
-- 🌐 Développement Web
-- 🤖 Programmation
-- 🚀 Gestion de projets
+**Langages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Contact ✉️
+**Réseaux & Sécurité**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba-FF8300?style=flat&logoColor=white)
 
-Je suis ouvert aux opportunités de collaboration, de projets passionnants et d'échanges sur la cybersécurité. N'hésitez pas à me contacter :
+**Virtualisation & Cloud**
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-📧 [E-mail](mailto:melvinlh76@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/melvin-prevost-b29106200/)
-💀 [Root-me](https://www.root-me.org/Ritsu-750896?lang=fr#db0cfca3290746d83e60aa3e619e30d9)
+**Supervision & Gestion**
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-FFCE00?style=flat&logoColor=black)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logoColor=white)
 
-N'hésitez pas à explorer mes projets !
+---
+
+## 🎯 Domaines de prédilection
+
+- 🏗️ **Infrastructure** — Déploiement et administration de serveurs Windows/Linux
+- 🔐 **Cybersécurité** — Durcissement, supervision et gestion des vulnérabilités
+- ☁️ **Virtualisation & Cloud** — Conception de solutions virtualisées et cloud
+- 🤖 **Automatisation** — Scripting PowerShell / Python pour faire gagner du temps
+- 🚀 **Gestion de projets IT** — De l'idée à la mise en production
+
+---
+
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelvinLh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinLh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌱 En ce moment
+
+Je continue à monter en compétences sur les infrastructures virtualisées sécurisées et l'écosystème cloud, tout en explorant de nouveaux projets perso côté DevOps et automatisation.
+
+> *« Curieux, autonome, et toujours en train d'apprendre. »*
+
+---
+
+⭐ N'hésite pas à jeter un œil à mes dépôts — toute idée, retour ou collaboration est la bienvenue !
